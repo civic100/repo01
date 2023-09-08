@@ -54,3 +54,15 @@ No sucede nada ya que no tenemos asociado el repositorio.
 ![❌ Error ❌](./img/Captura9.JPG "Status")
 
 ### 1.7 – Vuelve a ejecutar el comando git remote –v nuevamente y explica el porque ahora si que aparece ###
+
+Ahora si que funciona ya que se ha enlazada el repositorio local con el remoto.
+
+![❌ Error ❌](./img/Captura10.JPG "Status")
+
+### 1.8 – Sube los cambios que hemos subido al snapshot local (commit) hacía al repositorio remoto ###
+
+![❌ Error ❌](./img/Captura11.JPG "Status")
+
+
+### 1.9 – Ves al repositorio remoto (en este caso GitHub) y comprueba que se haya realizado el commit correctamente y observa que pasa en el repositorio ¿Observas algo peculiar? ###
+
