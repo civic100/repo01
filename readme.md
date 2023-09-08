@@ -66,3 +66,11 @@ Ahora si que funciona ya que se ha enlazada el repositorio local con el remoto.
 
 ### 1.9 – Ves al repositorio remoto (en este caso GitHub) y comprueba que se haya realizado el commit correctamente y observa que pasa en el repositorio ¿Observas algo peculiar? ###
 
+
+![❌ Error ❌](./img/Captura12.JPG "Status")
+
+Una vez actualizado todo con add, commit y push, en la pagina de github en nuestro repo01 tendremos que ver lo siguente: 
+
+![❌ Error ❌](./img/Captura13.JPG "Status")
+
+Veremos la cantidad de commits que se han realizado, el nombre de la rama, los ficheros suvidos y el nombre con el commit que se subieron "modificaron" por ultima vez. 
